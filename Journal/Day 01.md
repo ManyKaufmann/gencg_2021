@@ -1,3 +1,5 @@
 # Day 01
 
-Day 1 was fun.
+Day one was fun.
+
+<script src="sketch.js"></script>
