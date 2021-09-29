@@ -1,4 +1,4 @@
-# \_Intro
+# Intro
 
 ## Computing without computer
 
