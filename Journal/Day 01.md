@@ -11,4 +11,8 @@ Played a game named ?? with Neela and Guiliana. But could't find out a tatic to 
 Set up my repo and learned more about markdown, still have to do more researches.
 Started playing with shapes in P5.
 
-   <iframe src="../content/day01/01/embed.html" width="100%" height="450" frameborder="no"></iframe>
+   <iframe src="../content/day01/tst/embed.html" width="100%" height="450" frameborder="no"></iframe>
+
+   <iframe src="../content/day01/sketch1/embed.html" width="100%" height="450" frameborder="no"></iframe>
+
+   <iframe src="../content/day01/sketch2/embed.html" width="100%" height="450" frameborder="no"></iframe>
