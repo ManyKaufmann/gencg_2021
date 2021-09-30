@@ -15,7 +15,7 @@ function draw() {
 
   for (var x = 0; x <= width; x += 20) {
     for (var y = 0; y <= innerHeight; y += 60) {
-      fill(random(200), 120, random(70));
+      fill(random(50), 120, random(100));
       //ellipse(x - offset, y - offset, 25, 25);
       //rect(x - offset, y - offset, 100, 150);
       //triangle(30, x-offset, 360, 50, 86, 120)
