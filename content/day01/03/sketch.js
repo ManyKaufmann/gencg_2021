@@ -1,12 +1,9 @@
 var offset = 0;
-// Default P5 setup function
+
 function setup() {
   createCanvas(600, 400);
-  // video = createCapture(VIDEO);
-  //video.hide();
 }
 
-// Default P5 draw loop function
 function draw() {
   background(0);
 
@@ -15,7 +12,7 @@ function draw() {
 
   for (var x = 0; x <= width; x += 20) {
     for (var y = 0; y <= innerHeight; y += 60) {
-      fill(random(50), 120, random(100));
+      fill(random(220), 80, random(200));
       //ellipse(x - offset, y - offset, 25, 25);
       //rect(x - offset, y - offset, 100, 150);
       //triangle(30, x - offset, 360, 50, 86, 120);
@@ -24,6 +21,5 @@ function draw() {
 
       //circle(x-offset, y-offset, 60);
     }
-    //image(video, 0, 0, width, height);
   }
 }

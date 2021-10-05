@@ -1,24 +1,31 @@
-var offset = 0;
-// Default P5 setup function
 function setup() {
   createCanvas(600, 400);
-  // video = createCapture(VIDEO);
-  //video.hide();
 }
 
-// Default P5 draw loop function
 function draw() {
   background(0);
+  house();
+  roundTree();
+  tree();
+}
 
-  //stroke(255);
-  //strokeWeight(2);
+function house() {
+  fill(246, 215, 176);
+  rect(460, 120, 80, 80);
+  fill(205, 92, 92);
+  triangle(460, 120, 500, 50, 540, 120);
+}
 
-  for (var x = 0; x <= width; x += 20) {
-    for (var y = 0; y <= innerHeight; y += 60) {
-      fill(random(100), 0, random(250));
-      //ellipse(x - offset, y - offset, 25, 25);
-      rect(x - offset, y - offset, 20, 30);
-    }
-    //image(video, 0, 0, width, height);
-  }
+function roundTree() {
+  fill(17, 193, 131);
+  circle(200, 200, 150);
+  fill(166, 123, 91);
+  rect(190, 277, 20, 120);
+}
+
+function tree() {
+  fill(79, 121, 66);
+  triangle(280, 350, 358, 120, 450, 350);
+  fill(166, 123, 91);
+  rect(350, 350, 20, 50);
 }

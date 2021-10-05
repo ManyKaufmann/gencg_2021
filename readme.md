@@ -1,4 +1,4 @@
-# Intro
+# About
 
 ## Computing without computer
 
@@ -41,4 +41,3 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - Lorem ipsum dolor sit amet
 - Consetetur sadipscing elitr, sed diam nonumy.
 - At vero eos et accusam et justo duo dolores et ea rebum.
-
