@@ -8,6 +8,9 @@ Day one was fun.
 
 Played a game named "Sprouts" with Neela and Guiliana. But could't find out a tatic to win. Afterwards we started to play TicTacToe to test some tactics. We also found out that there is a 3D TicTacToe which we like to try.
 
+<img src="../content/day01/sprout01.JPG" width="40%">
+<img src="../content/day01/sprout02.JPG" width="40%">
+
 ---
 
 ### Task 02
