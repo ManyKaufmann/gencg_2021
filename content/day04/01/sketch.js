@@ -17,7 +17,7 @@ function draw() {
 function first() {
   fill(245, 47, 87, 15);
   stroke(247, 157, 92, 30);
-  circle(mouseX, mouseY, 20);
+  circle(mouseX, mouseY, 15);
 }
 
 function secondPlayer() {
