@@ -6,7 +6,7 @@ var fft;
 var particles = [];
 
 function preload() {
-  sound = loadSound("Sekuioa.mp3");
+  sound = loadSound("sek.mp3");
 }
 
 function setup() {
