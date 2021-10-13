@@ -6,7 +6,7 @@ var fft;
 var particles = [];
 
 function preload() {
-  sound = loadSound("loyal.mp3");
+  sound = loadSound("Sekuioa.mp3");
 }
 
 function setup() {
@@ -56,7 +56,7 @@ function draw() {
     endShape();
 
     beginShape();
-    stroke(random(230, 255), random(0, 192), random(126, 203), 170);
+    stroke(random(180, 200), random(150, 192), random(126, 255), 180);
     strokeWeight(8);
     noFill(230, 0, 126);
     for (var i = 0; i <= 180; i++) {
@@ -69,7 +69,7 @@ function draw() {
     endShape();
 
     beginShape();
-    stroke(random(230, 255), random(0, 192), random(126, 203), 120);
+    stroke(random(230, 255), random(0, 200), random(126, 203), 120);
 
     strokeWeight(3);
     noFill(230, 0, 126);
@@ -101,7 +101,7 @@ function draw() {
 
   for (var i = 0; i < particles.length; i++) {
     if (!particles[i].edges()) {
-      particles[i].update(amp > 200);
+      particles[i].update(amp > 170);
       particles[i].show();
     } else {
       particles.splice(i, 3);
