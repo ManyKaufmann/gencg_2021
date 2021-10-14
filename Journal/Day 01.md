@@ -8,8 +8,8 @@ Day one was fun.
 
 Played a game named "Sprouts" with Neela and Giuliana. We tried to find out a tatic to always win, but it was quite difficult. Due discussing about tatics we came accross TicTacToe. After a while it was easier to find a strategy to win than on the other game. We also found out that, there is a 3D TicTacToe which sounds very interesting and we like to try out.
 
-<img src="../content/day01/sprout01.JPG" width="40%">
-<img src="../content/day01/sprout02.JPG" width="40%">
+<img src="../content/day01/01/sprout01.JPG" width="40%">
+<img src="../content/day01/01/sprout02.JPG" width="40%">
 
 ---
 
@@ -25,7 +25,7 @@ To start with P5 JS, our first task was to make a simple sketch before writing t
 
 My got inspired by "Santas Home" and made a sketch with two trees to symbolise the forest and a small house where Santa live.
 
-<img src="../content/day01/sketchDrawing.PNG" width= "40%">
+<img src="../content/day01/01sketchDrawing.PNG" width= "40%">
 <iframe src="../content/day01/01/embed.html" width="40%" height="450" frameborder="no"></iframe>
 
 ---
