@@ -4,9 +4,9 @@
 
 Day one was fun.
 
-### Game Sprouts
+### Game
 
-Played a game named "Sprouts" with Neela and Guiliana. We tried to find out a tatic to always win, but it was quite difficult. Due discussing about tatics we came accross TicTacToe. After a while it was easier to find a strategy to win than on the other game. We also found out that, there is a 3D TicTacToe which sounds very interesting and we like to try out.
+Played a game named "Sprouts" with Neela and Giuliana. We tried to find out a tatic to always win, but it was quite difficult. Due discussing about tatics we came accross TicTacToe. After a while it was easier to find a strategy to win than on the other game. We also found out that, there is a 3D TicTacToe which sounds very interesting and we like to try out.
 
 <img src="../content/day01/sprout01.JPG" width="40%">
 <img src="../content/day01/sprout02.JPG" width="40%">
@@ -17,13 +17,19 @@ Played a game named "Sprouts" with Neela and Guiliana. We tried to find out a ta
 
 Set up my repo in class and got in touch first time with markdown. I decided to write my journal in markdown because I can use it with GitHub Pages and it's very convenient for me to have everything organized at one place. How I will get along with it the next few week.
 
+---
+
 ### Task 1 - Draw then code
 
 To start with P5 JS, our first task was to make a simple sketch before writing the code.
 
 My got inspired by "Santas Home" and made a sketch with two trees to symbolise the forest and a small house where Santa live.
 
-<iframe src="../content/day01/01/embed.html" width="100%" height="450" frameborder="no"></iframe>
+<img src="../content/day01/sketchDrawing.PNG" width= "40%">
+
+<iframe src="../content/day01/01/embed.html" width="40%" height="450" frameborder="no"></iframe>
+
+---
 
 ### Task 2 - Iteration + randomness
 
