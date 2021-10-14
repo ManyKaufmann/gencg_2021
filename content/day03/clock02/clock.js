@@ -18,7 +18,6 @@ function draw() {
   noFill();
   translate(width / 2, height / 2);
   circle(0, 0, 200);
-  //arc(0, 0, 200, 200, 0, 360);
   rotate(180);
   randomSeed(20);
   for (var x = 1; x <= hours % 12; x++) {

@@ -2,6 +2,7 @@ var offset = 0;
 
 function setup() {
   createCanvas(600, 400);
+  frameRate(1);
 }
 
 function draw() {
