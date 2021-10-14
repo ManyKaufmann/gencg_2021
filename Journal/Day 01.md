@@ -26,7 +26,6 @@ To start with P5 JS, our first task was to make a simple sketch before writing t
 My got inspired by "Santas Home" and made a sketch with two trees to symbolise the forest and a small house where Santa live.
 
 <img src="../content/day01/sketchDrawing.PNG" width= "40%">
-
 <iframe src="../content/day01/01/embed.html" width="40%" height="450" frameborder="no"></iframe>
 
 ---
