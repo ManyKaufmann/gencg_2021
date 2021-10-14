@@ -16,9 +16,8 @@ function draw() {
       //ellipse(x - offset, y - offset, 25, 25);
       //rect(x - offset, y - offset, 100, 150);
       //triangle(30, x - offset, 360, 50, 86, 120);
-      //triangle(x - offset, y - offset, -40, -60, -86, -40);
-      triangle(30, 30, 400, y - offset, 86, 400);
-
+      triangle(x - offset, y - offset, -40, -60, -86, -40);
+      //triangle(30, 30, 400, y - offset, 86, 400);
       //circle(x-offset, y-offset, 60);
     }
   }

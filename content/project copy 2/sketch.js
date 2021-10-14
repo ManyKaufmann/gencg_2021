@@ -16,10 +16,10 @@ function setup() {
 }
 
 function draw() {
-  //background(0);
-  // stroke(random(230, 255), random(0, 192), random(126, 203));
-  // strokeWeight(2);
-  // noFill(230, 0, 126);
+  background(0);
+  stroke(random(230, 255), random(0, 192), random(126, 203));
+  strokeWeight(2);
+  noFill(230, 0, 126);
 
   translate(width / 2, height / 2);
 
