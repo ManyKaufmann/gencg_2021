@@ -1,9 +1,9 @@
 function setup() {
   createCanvas(600, 400);
 }
-// Default P5 draw loop function
+
 function draw() {
-  // stroke(255);
+  //stroke(255);
   //strokeWeight(1);
 
   //col = mouseX/2;
