@@ -33,7 +33,7 @@ Out of the microphon level I created the size of the circle.
 
 <iframe src="../content/day04/02/embed.html" width="100%" height="600" frameborder="no"></iframe>
 
-````js
+```js
 function draw() {
   var micLevel = 0;
   var micLevel = mic.getLevel();
@@ -41,7 +41,5 @@ function draw() {
   var sd = micLevel * 100;
   var md = micLevel * 300;
   var pd = micLevel * 500;
-  ```js
 
----
-````
+```

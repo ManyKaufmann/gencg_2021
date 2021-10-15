@@ -2,7 +2,7 @@
 
 ## || 07.10.21
 
-## FACES GENERATOR
+## FACE GENERATOR
 
 ### Mr. Potato
 
