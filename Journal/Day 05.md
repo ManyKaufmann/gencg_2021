@@ -8,8 +8,6 @@
 
 My intention was to make a face generator which makes cute faces. They should include hair and cheeks. Later on I came up with the idea with Mr. Potato Head ...
 
-<img src="../content/day05/sketchPotato.png" width="30%">
-
 <iframe src="../content/day05/01/embed.html" width="100%" height="450" frameborder="no"></iframe>
 
 <img src="../content/day05/01/potato1.png" width="30%">
