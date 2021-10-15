@@ -6,7 +6,7 @@
 
 ### Mr. Potato
 
-My intention was to make a face generator which makes cute faces. They should include hair and cheeks. Later on I cam up with the idea with Mr. Potato Head ... 
+My intention was to make a face generator which makes cute faces. They should include hair and cheeks. Later on I came up with the idea with Mr. Potato Head ...
 
 <img src="../content/day05/sketchPotato.png" width="30%">
 

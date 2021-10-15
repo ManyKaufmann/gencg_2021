@@ -26,22 +26,14 @@ Idea: My idea was to create a drawing machine which two person can create. The i
 
 ---
 
-<<<<<<< HEAD
-### MicInput
-I wanted to do something where I can include the micinput. But it wasn't easy to find something to do 
+### MicInput - CLAP
+
+In this project i want to do something with a interaction. So I decided to try out something with mic input.
+Out of the microphon level I created the size of the circle.
 
 <iframe src="../content/day04/02/embed.html" width="100%" height="600" frameborder="no"></iframe>
-=======
-### CLAP
 
-In this project i want to do something with a ineraction so I decided to try out something wiht mic input. 
-Out of the microphon level I created the size of the circle. 
-
-<iframe src="../content/day04/02/embed.html" width="100%" height="450" frameborder="no"></iframe>
->>>>>>> 65c2c1fe8b11cc0a11dd9f0c4914ceb8a53411b0
-
-
-```js
+````js
 function draw() {
   var micLevel = 0;
   var micLevel = mic.getLevel();
@@ -52,3 +44,4 @@ function draw() {
   ```js
 
 ---
+````

@@ -15,19 +15,22 @@ The stack will fill up every hour and minutes.
 Every hour more points got fill to show the time.
 <img src="../content/day03/clock/sketchClock3.png" width="30%">
 
+#### Clocck Numero Uno
 
-####Clocck Numero Uno
 Hours: Inner Strokes
 Minutes: Middel Strokes
 Seconds: Outside Strokes
+
 <iframe src="../content/day03/clock/embed.html" width="100%" height="450" frameborder="no"></iframe>
 
 <img src="../content/day03/clock/clock_01.PNG" width="40%">
 Example will other colors.
 <img src="../content/day03/clock/clock_02.PNG" width="40%">
 
-####Clock Numero Dos
+#### Clock Numero Dos
+
 Hours: As strokes in the middle.
 Minutes: orange circles
 Seconds: outer circles
+
 <iframe src="../content/day03/clock02/embed.html" width="100%" height="450" frameborder="no"></iframe>
