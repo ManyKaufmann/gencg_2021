@@ -6,11 +6,8 @@ function Particle(x, y) {
   this.r = random(4, 32);
 
   this.update = function () {
-    this.x += 1;
-    if (this.x >= width) {
-      this.y += 1;
-      this.x = 0;
-    }
+    this.x += random(-20, 20);
+    this.y += random(-10, 10);
 
     this.x = constrain(this.x, 0, width);
     this.y = constrain(this.y, 0, height);
@@ -23,7 +20,7 @@ function Particle(x, y) {
     var col = video.get(px, py);
     //console.log(col);
     fill(col[0], col[1], col[2], 155);
-    //ellipse(this.x, this.y, this.r, this.r);
-    rect(this.x, this.y, 40, 40);
+    // ellipse(this.x, this.y, this.r, this.r);
+    rect(this.x, this.y, this.r, this.r);
   };
 }
