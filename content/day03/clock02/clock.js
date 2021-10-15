@@ -20,30 +20,33 @@ function draw() {
   circle(0, 0, 200);
   rotate(180);
   randomSeed(20);
+
   for (var x = 1; x <= hours % 12; x++) {
-    let r = random(20);
-    strokeWeight(1);
-    rotate(6);
-    circle(x, -50, r);
+    let h = random(20);
+    stroke(77, 161, 169);
+    strokeWeight(2);
+    push();
+    rotate(x * 30);
+    line(0, 0, 0, 20 + h);
+    pop();
   }
 
   for (var x = 0; x <= minutes; x++) {
     let h = random(120);
-    stroke(231, 90, 90);
-    strokeWeight(3);
+    stroke(255, 166, 48, 100);
+    strokeWeight(2);
     push();
     rotate(x * 30);
-    line(0, 0, 0, 130 + h);
+    ellipse(x, 50 + x, 30);
     pop();
   }
 
   for (var x = 0; x <= seconds; x++) {
-    stroke(255);
+    stroke(215, 232, 186, 200);
     strokeWeight(1);
-    stroke(255, 249, 121, 50);
     push();
     rotate(x * 6);
-    line(0, 0, 0, width);
+    ellipse(150, 50, 10);
     pop();
   }
 }
