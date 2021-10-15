@@ -24,6 +24,9 @@ Idea: My idea was to create a drawing machine which two person can create. The i
 
 ---
 
-<iframe src="../content/day04/02/embed.html" width="100%" height="450" frameborder="no"></iframe>
+### MicInput
+I wanted to do something where I can include the micinput. But it wasn't easy to find something to do 
+
+<iframe src="../content/day04/02/embed.html" width="100%" height="600" frameborder="no"></iframe>
 
 ---
