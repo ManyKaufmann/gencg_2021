@@ -10,9 +10,9 @@ My intention was to make a face generator which makes cute faces. They should in
 
 <img src="../content/day05/sketchPotato.png" width="30%">
 
-<iframe src="../content/day05/embed.html" width="100%" height="450" frameborder="no"></iframe>
+<iframe src="../content/day05/01/embed.html" width="100%" height="450" frameborder="no"></iframe>
 
-<img src="../content/day05/potato1.png" width="30%">
-<img src="../content/day05/potato2.png" width="30%">
-<img src="../content/day05/potato3.png" width="30%">
-<img src="../content/day05/potato4.png" width="30%">
+<img src="../content/day05/01/potato1.png" width="30%">
+<img src="../content/day05/01/potato2.png" width="30%">
+<img src="../content/day05/01/potato3.png" width="30%">
+<img src="../content/day05/01/potato4.png" width="30%">
