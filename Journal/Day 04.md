@@ -20,10 +20,28 @@ Idea: My idea was to create a drawing machine which two person can create. The i
 
 <iframe src="../content/day04/01/embed.html" width="100%" height="450" frameborder="no"></iframe>
 
-## <img src="../content/day04/01/hotWire.PNG" width="40%">
+<img src="../content/day04/01/hotWire.png" width="30%">
+<img src="../content/day04/01/hello.png" width="0%">
+<img src="../content/day04/01/buddyArt.png" width="30%">
 
 ---
 
+### CLAP
+
+In this project i want to do something with a ineraction so I decided to try out something wiht mic input. 
+Out of the microphon level I created the size of the circle. 
+
 <iframe src="../content/day04/02/embed.html" width="100%" height="450" frameborder="no"></iframe>
+
+
+```js
+function draw() {
+  var micLevel = 0;
+  var micLevel = mic.getLevel();
+  console.log(micLevel);
+  var sd = micLevel * 100;
+  var md = micLevel * 300;
+  var pd = micLevel * 500;
+  ```js
 
 ---

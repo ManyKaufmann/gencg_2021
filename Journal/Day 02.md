@@ -6,7 +6,7 @@
 
 #### Grid - Matches
 
-simple organizes matches
+simple matches
 
 <iframe src="../content/day02/01/embed.html" width="100%" height="450" frameborder="no"></iframe>
 

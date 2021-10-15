@@ -41,12 +41,14 @@ function draw() {
 
     
     beginShape();
-    stroke(random(44, 253), random(62, 116), random(80, 108), 255);
-    strokeWeight(1);
+   //stroke(random(44, 253), random(62, 116), random(80, 108), 255);
+   // stroke(random(44), random(62), random(80), 255);
+   stroke(44, 62, 80, random(150,255));
+    strokeWeight(2);
     noFill(230, 0, 126);
     for (var i = 0; i <= 180; i += 0.5) {
-      var index = floor(map(i, 0, 180, 0, wave.length - 1));
-      var r = map(wave[index], -1, 1, 50, 100);
+      var index = floor(map(i, 0, 100, 0, wave.length - 1));
+      var r = map(wave[index], -1, 1, 70, 250);
       var x = r * sin(i) * t;
       var y = r * cos(i);
       vertex(x, y);
@@ -54,12 +56,14 @@ function draw() {
     endShape();
 
     beginShape();
-    stroke(random(44, 253), random(62, 116), random(80, 108), 255);
-    strokeWeight(2);
+   //stroke(random(44, 253), random(62, 116), random(80, 108), 255);
+    //stroke(random(253), random(116), random(108), 255);
+    stroke(253, 116, 108, random(0,150));
+    strokeWeight(4);
     noFill(230, 0, 126);
     for (var i = 0; i <= 180; i++) {
-      var index = floor(map(i, 0, 180, 0, wave.length - 1));
-      var r = map(wave[index], -1, 1, 50, 120);
+      var index = floor(map(i, 0,255, 200, wave.length - 1));
+      var r = map(wave[index], -1, 1, 10, 200);
       var x = r * sin(i) * t;
       var y = r * cos(i);
       vertex(x, y);

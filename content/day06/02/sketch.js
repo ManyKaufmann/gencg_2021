@@ -1,3 +1,5 @@
+//Daniel Schiffmann - https://www.youtube.com/watch?v=0V3uYA1hafk
+
 var video;
 var vScale = 16;
 
@@ -13,7 +15,7 @@ function setup() {
   for (var i = 0; i < 150; i++) {
     particles[i] = new Particle(random(width), random(height));
   }
-  //slider = createSlider(0, 255, 127)
+  // slider = createSlider(0, 255, 127)
   background(51);
 }
 
