@@ -20,9 +20,9 @@ Idea: My idea was to create a drawing machine which two person can create. The i
 
 <iframe src="../content/day04/01/embed.html" width="100%" height="450" frameborder="no"></iframe>
 
-<img src="../content/day04/01/hotWire.png" width="30%">
-<img src="../content/day04/01/hello.png" width="0%">
-<img src="../content/day04/01/buddyArt.png" width="30%">
+<img src="../content/day04/01/hotWire.png" width="40%">
+<img src="../content/day04/01/hello.png" width="40%">
+<img src="../content/day04/01/buddyArt.png" width="40%">
 
 ---
 
