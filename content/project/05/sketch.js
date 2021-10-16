@@ -12,12 +12,12 @@ function preload() {
 function setup() {
   createCanvas(windowWidth, windowHeight);
   angleMode(DEGREES);
-  fft = new p5.FFT();
+  fft = new p5.FFT(0.2, 256);
 }
 
 function draw() {
   background(0);
-  
+
   translate(width / 2, height / 2);
 
   fft.analyze();
@@ -39,7 +39,6 @@ function draw() {
     // }
     // endShape();
 
-    
     beginShape();
     stroke(random(44, 253), random(62, 116), random(80, 108), 255);
     strokeWeight(1);
@@ -96,7 +95,6 @@ function draw() {
 
   var p = new Particle();
   particles.push(p);
-
 
   for (var i = 0; i < particles.length; i++) {
     if (!particles[i].edges()) {

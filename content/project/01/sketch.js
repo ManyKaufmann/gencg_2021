@@ -12,7 +12,7 @@ function preload() {
 function setup() {
   createCanvas(windowWidth, windowHeight);
   angleMode(DEGREES);
-  fft = new p5.FFT();
+  fft = new p5.FFT(0.1, 256);
 }
 
 function draw() {
