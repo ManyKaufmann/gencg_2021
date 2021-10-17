@@ -31,7 +31,7 @@ Well there were a lot of physical inspirations but to transfer this to code was 
 Example will other colors:
 
 <img src="../content/day03/clock/clock_01.png" width="40%">
-<img src="../content/day03/clock/clock_02.png" width="40%">
+<img src="..content/day03/clock/clock_02.png" width="40%">
 
 Notes: The idea was also to change colors for am and pm. 
 
