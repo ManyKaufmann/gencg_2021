@@ -23,7 +23,7 @@ function draw() {
 function hexagonShape() {
     var numShapes = sides;
     var strokeCol = ranColor();
-    var stepsOut = 50;
+    var stepsOut = 5;
     var numSteps = rando() ? stepsOut : floor(stepsOut * 1.25);
     var angle = 360 / numShapes;
     var centerOffset = (size / 2) * 0.15;

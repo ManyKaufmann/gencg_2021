@@ -20,6 +20,8 @@ The hardest part about this project was to get the feeling for the sound and to 
 
 Next step I would like to try out to use the my work with the camera inputs and pixels with fft. For example to change colors depends de amp or let the shapes getting bigger.
 
+-> Click to start music
+
 <iframe src="../content/project/01/embed.html" width="100%" height="600" frameborder="no"></iframe>
 <iframe src="../content/project/03/embed.html" width="100%" height="600" frameborder="no"></iframe>
 <iframe src="../content/project/04/embed.html" width="100%" height="600" frameborder="no"></iframe>

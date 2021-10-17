@@ -1,3 +1,5 @@
+//https://www.youtube.com/watch?v=VYg-YdGpW1o
+
 var colors = [];
 
 function setup() {
