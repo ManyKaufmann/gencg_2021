@@ -9,6 +9,7 @@ After an intro about Generative Art we started with a game name "Sprouts". We tr
 Our results:
 
 <img src="../content/day01/01/sprout01.jpg" width="40%">
+
 <img src="../content/day01/01/sprout02.jpg" width="40%">
 
 Rules:
