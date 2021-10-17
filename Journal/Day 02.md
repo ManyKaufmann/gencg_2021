@@ -1,5 +1,7 @@
-# Day 02 || 30.09.21
- 
+# Day 02 
+
+##### || 30.09.21
+
 ## Iterative Patterns
 
 ### Grid - Matches
@@ -18,7 +20,7 @@ Notes: Could extend that in different colors and play with sizes.
 
 Wasn't very inspired to work on this further so decided to play around with other stuff.
 
-<img src="../content/day02/02/sketchPattern.png" width= "70%" height="450">
+<img src="../content/day02/02/skPatern01.png" width= "70%">
 
 <iframe src="../content/day02/02/embed.html" width="100%" height="450" frameborder="no"></iframe>
 <iframe src="../content/day02/03/embed.html" width="100%" height="450" frameborder="no"></iframe>

@@ -1,6 +1,6 @@
-# Day 01 || 29.09.21
+# Day 01 
 
-Day one was fun.
+##### || 29.09.21 - Day one was fun.
 
 ## Game
 
@@ -8,9 +8,8 @@ After an intro about Generative Art we started with a game name "Sprouts". We tr
 
 Our results:
 
-<img src="../content/day01/01/sprout01.png" width= "30%">
-
-<img src="../content/day01/01/sprout02.png" width= "30%">
+<img src="../content/day01/01/sprout1.png" width= "30%">
+<img src="../content/day01/01/sprout2.png" width= "30%">
 
 
 
@@ -30,8 +29,6 @@ Before we jumped into sketching, coding and creating we set up our repo in class
 For the warm up we could decide how we wanted to start with p5.js. Because my p5.js knowledge is not that present anymore I chose a simple task to draw shapes, to get into coding again. In this task we had to sketch on paper first before we got into coding. For me it's always very difficult if i sketch something and then code, but it was a good challenge for me to start with.
 
 Somehowe I got inspired by "Santas Home" and made a sketch with two trees to symbolise the forest and a small house where Santa live.
-
-<img src="../content/day01/01/sketchDrawing.png" width= "30%">
 
 <img src="../content/day01/01/skSantasHome.png" width= "30%">
 

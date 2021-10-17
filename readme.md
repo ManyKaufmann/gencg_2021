@@ -1,10 +1,10 @@
-# ABOUT
+# About
 
-# Generative Computer Graphics
+## Generative Computer Graphics
 
-## || 29.09.2021 - 15.10.2021
+##### || 29.09.2021 - 15.10.2021
 
-### **HSLU, Digital Ideation, with Guillaume Massol** 
+##### **HSLU, Digital Ideation, with Guillaume Massol** 
 
 Each day we were introduced to a new topic. After the input and some own researches we were free to sketch, create and play around on our own.
 
@@ -26,6 +26,6 @@ For the projects we were working with p5.js.
 - Day08 - Wrapped up project + journal
 - Day09 - Final presentation
 
-**Click on image to start music and to stop click again**
+**Click on image to start music and to stop click again** - make sure audio is on.
 
 <iframe src="content/project/05/embed.html" width="100%" height="600" frameborder="no"></iframe>
