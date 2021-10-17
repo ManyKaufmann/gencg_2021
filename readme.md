@@ -26,6 +26,6 @@ For the projects we were working with p5.js.
 - Day08 - Wrapped up project + journal
 - Day09 - Final presentation
 
-Click to start music | to stop click again
+Click on image to start music and to stop click again
 
 <iframe src="content/project/05/embed.html" width="100%" height="600" frameborder="no"></iframe>

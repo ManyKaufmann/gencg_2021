@@ -5,17 +5,20 @@
 ### Ideas:
 
 Particles fall down and the time will show up in a container. Every minute particles fall down from the container to the bottom and after one hour bottom will be empty again.
-<img src="../content/day03/clock/sketchClock1.png">
+
+<img src="../content/day03/clock/sketchClock1.png" width = "30%">
 
 The stack will fill up every hour and minutes.
-<img src="../content/day03/clock/sketchClock2.png">
+
+<img src="../content/day03/clock/sketchClock2.png" width = "30%">
 
 Every hour more points got fill to show the time.
-<img src="../content/day03/clock/sketchClock3.png">
+
+<img src="../content/day03/clock/sketchClock3.png" width = "30%">
 
 ---
 
-### Clocck Numero Uno
+### Clock Numero Uno
 
 Well there were a lot of physical inspirations but to transfer this to code was too difficult for me (at this point - hopefully later, one day). So I decided to make it very simple for me. 
 
