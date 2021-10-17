@@ -1,5 +1,5 @@
 var size = 300;
-var sides = 6;
+var sides = 40;
 var colors = [];
 
 function setup() {
