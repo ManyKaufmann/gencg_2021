@@ -30,10 +30,12 @@ Well there were a lot of physical inspirations but to transfer this to code was 
 
 <iframe src="../content/day03/clock/embed.html" width="100%" height="450" frameborder="no"></iframe>
 
-Example will other colors:
+Example with other colors:
 
 <img src="../content/day03/clock/clock_01.png" width="40%">
 <img src="..content/day03/clock/clock_02.png" width="40%">
+
+<img src="..content/day03/clock/clock_01.png" width = "40%">
 
 Notes: The idea was also to change colors for am and pm. 
 
