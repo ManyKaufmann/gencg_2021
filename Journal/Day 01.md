@@ -8,9 +8,9 @@ After an intro about Generative Art we started with a game name "Sprouts". We tr
 
 Our results:
 
-<img src="../content/day01/01/sprout01.jpg" width="40%">
+<img src="../content/day01/01/sprout01.png" width= "30%">
 
-<img src="../content/day01/01/sprout02.jpg" width="40%">
+<img src="../content/day01/01/sprout02.png" width= "30%">
 
 Rules:
 <https://nrich.maths.org/2413>
@@ -29,7 +29,8 @@ For the warm up we could decide how we wanted to start with p5.js. Because my p5
 
 Somehowe I got inspired by "Santas Home" and made a sketch with two trees to symbolise the forest and a small house where Santa live.
 
-<img src="../content/day01/01/sketchDrawing.png" width= "350" height="280">
+<img src="../content/day01/01/sketchDrawing.png" width= "30%">
+
 <iframe src="../content/day01/01/embed.html" width="100%" height="450" frameborder="no"></iframe>
 
 ---
