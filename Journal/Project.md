@@ -22,6 +22,9 @@ Next step I would like to try out to use the my work with the camera inputs and 
 
 **Click on image to start music and to stop click again**
 
+From this
 <iframe src="../content/project/01/embed.html" width="100%" height="600" frameborder="no"></iframe>
+..to this
 <iframe src="../content/project/03/embed.html" width="100%" height="600" frameborder="no"></iframe>
+..to this
 <iframe src="../content/project/04/embed.html" width="100%" height="600" frameborder="no"></iframe>
