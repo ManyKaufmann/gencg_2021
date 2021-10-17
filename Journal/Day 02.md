@@ -22,6 +22,7 @@ Wasn't very inspired to work on this further so decided to play around with othe
 
 <img src="../content/day02/02/skPattern01.png" width= "70%">
 
+
 <iframe src="../content/day02/02/embed.html" width="100%" height="450" frameborder="no"></iframe>
 <iframe src="../content/day02/03/embed.html" width="100%" height="450" frameborder="no"></iframe>
 
