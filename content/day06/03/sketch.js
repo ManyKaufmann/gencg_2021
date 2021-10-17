@@ -29,9 +29,9 @@ function draw() {
       let dia = map(r, 0, 255, gridSize, 2);
 
       var fillColor = ranColor();
-      //fill(fillColor);
-      stroke(0);
-      strokeWeight(3);
+      fill(255);
+      //stroke(0);
+      //strokeWeight(3);
       circle(x, y, dia);
       //ellipse(x, y, 30, dia);
       

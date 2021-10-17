@@ -4,7 +4,7 @@
 
 ##### || 29.09.2021 - 15.10.2021
 
-##### **HSLU, Digital Ideation, with Guillaume Massol** 
+#### **HSLU, Digital Ideation, with Guillaume Massol** 
 
 Each day we were introduced to a new topic. After the input and some own researches we were free to sketch, create and play around on our own.
 
