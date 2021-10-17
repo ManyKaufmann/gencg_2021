@@ -16,7 +16,9 @@ Where I spent to much time and I almost lost my patient, was to chose a song. De
 
 Playing with the vizualisation was very fun as well. Only changing the colors or some other parameters you could create very cool stuff or it was just ugly. Most of the time when I ramdomly adjust the parameters I found very cool new stuff.
 
-The hardes part about this project was to get the feeling for the sound and to put it on the screen that people who watch this has an amazing expirience. But my problem was, that you can lose yourself very fast in just adjusting some parameters or searching for the perfect song. But the good thing about is. If you dive more and more into this, you have so many different new ideas and I am excited to go further in this topic to experiment more and create new things.
+The hardest part about this project was to get the feeling for the sound and to put it on the screen that people who watch this has an amazing expirience. But my problem was, that you can lose yourself very fast in just adjusting some parameters or searching for the perfect song to make it perfect. But the good thing about is. If you dive more and more into this, you have so many different new ideas and I am excited to go further in this topic to experiment more and create new things.
+
+Next step I would like to try out to use the my work with the camera inputs and pixels with fft. For example to change colors depends de amp or let the shapes getting bigger.
 
 <iframe src="../content/project/01/embed.html" width="100%" height="600" frameborder="no"></iframe>
 <iframe src="../content/project/03/embed.html" width="100%" height="600" frameborder="no"></iframe>
